@@ -9,7 +9,6 @@ Then Virtual Mouse is here for you to facilitate you. Just Move your index finge
 
 #### Before Running the Project. Make Sure you have required Libareries Installed on the System.
 #### Libareries Required : 
-cv2
-numpy 
-time
-autopy
+cv2,numpy 
+,time
+,autopy
